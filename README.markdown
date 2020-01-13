@@ -1,4 +1,4 @@
-# rootca
+# gorootca
 
 ```Go
 import "github.com/rogueethic/gorootca"
