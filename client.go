@@ -1,3 +1,5 @@
+// Copyright © 2020 Christian R. Vozar <christian@rogueethic.com>
+//
 // Package rootca provides a http.Client with a certificate bundle.
 package gorootca
 
