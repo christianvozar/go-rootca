@@ -1,3 +1,4 @@
+// Copyright © 2020 Christian R. Vozar <christian@rogueethic.com>
 package gorootca
 
 var rootCertificateBundle = []byte(`
